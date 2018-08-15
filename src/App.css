@@ -1,0 +1,62 @@
+.App {
+  margin: auto;
+  width: 800px;
+}
+
+h1 {
+  color: #3963a5;
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 0;
+  margin-left: 30px;
+}
+
+h2 {
+  color: #fff;
+  font-weight: bold;
+  border-bottom: 2px solid #47a6ff;
+}
+
+h4 {
+  margin: 0 0 0 30px;
+}
+
+button {
+  margin-top: 80px;
+  color: #b40000;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.intro {
+  width: 100%;
+  height: 680px;
+  margin-top: 30px;
+}
+
+.info {
+  width: 100%;
+  height: 30px;
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.playing {
+  width: 100%;
+  height: 400px;
+  margin: 0;
+  padding-top: 120px;
+  text-align: center;
+  background-color: #aaa5ff;
+}
+
+.ongame {
+  position: relative;
+}
+
+.enemy {
+  position: absolute;
+  left: 80px;
+  top: 0;
+}
